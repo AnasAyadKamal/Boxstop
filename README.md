@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boxstop
-- 👀 I’m interested in C++,Game dev,creating some malwares,making tools,linux(lubuntu)
-- 🌱 I’m currently learning C++,Java,Python,Data structers and algrothimes,lubuntu(a linux distro)
+- 👀 I’m interested in C\C++,Game dev,creating some malwares,making tools,linux(peppermint 10)
+- 🌱 I’m currently learning C\C++,Java,Python,Data structers and algrothimes,lubuntu(a linux distro)
 - 💞️ I’m looking to collaborate on Nothing for now
 - 📫 How to reach me @boxstop_ on insta, islamicboxst0p on telegram,Boxstop on yt
 
